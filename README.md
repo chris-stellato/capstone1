@@ -11,7 +11,7 @@ This dataset contains records of avalanche-related fatalities from 1951 through 
 * date of occurrance
 * mode of travel (skis, snowshoes, snowmobile, etc)
 * number of fatalities per incident
-* magnitude of burial and incident details (only for more recent years. 
+* magnitude of burial and incident details (only for more recent years.) 
 * NOTE: falls shy of the recommended data size @ only 914 rows
 
 #### Possible Visualizations
