@@ -1,8 +1,8 @@
-# capstone_1
+# Chris Stellato - Capstone 1 proposals
+
 
 ## Proposal 1: 
 ### Colorado Avalanche Information Center Data
-
 https://docs.google.com/spreadsheets/d/1j4-5IKizg1dZ7N1honszrvymsNvKPPOAX8ltxLaXK58/edit?usp=sharing
 
 #### Dataset
