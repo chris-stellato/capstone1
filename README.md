@@ -2,7 +2,8 @@
 
 ## Proposal 1: 
 ### Colorado Avalanche Information Center Data
-** link**
+
+https://docs.google.com/spreadsheets/d/1j4-5IKizg1dZ7N1honszrvymsNvKPPOAX8ltxLaXK58/edit?usp=sharing
 
 #### Dataset
 This dataset contains records of avalanche-related fatalities from 1951 through 2020. It contains several interesting data points for each incident, including: 
