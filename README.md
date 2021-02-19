@@ -47,7 +47,7 @@ This dataset contains records of 1M spotify playlists, allowing Data Scientists 
 * "Playlists usually stick to one genre and rarely deviate"
 
 
-## Proposal 2: 
+## Proposal 3: 
 ### Ski Resort Snowfall
 https://www.kaggle.com/mrmarjo/resort-daily-snowfall-20092017
 
