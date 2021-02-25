@@ -1,5 +1,32 @@
 # Chris Stellato - Capstone 1 project
 
+#### Monday update: 
+- Dowloaded data
+- launched spark docker instance, created jupyter notebook
+- read in json file and explored data
+- worked to move nested data into workable dataframes
+- still in data wrangling mode. 
+
+#### Tuesday update: 
+- continued EDA
+- cleaned dataframes & added diversity_ratio column
+- started seeing if columns of interest were normally distributed
+- started thinking about possible hypothesis and how to test them
+- mucked around with unsuccessful distributions, sampling, graphs that didn't bear fruit
+
+#### Wednesday update: 
+- combined multiple JSON files into a single dataframe with 20k playlist records
+- checked again that diversity_ratio and num_followers are NOT normally distributed
+- set up bootstrapping to generate list of sample sets and the means of each sample set
+- plotted those bootstrapped distributions to find normal distributions
+- defined confidence intervals and ran hypothesis test, rejected null hypothesis 
+- discussed maybe bootstrap isn't the best approach, should look at beta distributions and bayes
+
+
+
+
+
+
 
 ## Proposal 2: 
 ### Spotify Million Playlist Dataset
@@ -21,10 +48,3 @@ This dataset contains records of 1M spotify playlists, allowing Data Scientists 
 #### Possible Hypotheses to test: 
 * "95% of playlists have between X and Y tracks in them"
 * "Playlists usually stick to one genre and rarely deviate"
-
-Monday update: 
-- Dowloaded data
-- launched spark docker instance, created jupyter notebook
-- read in json file and explored data
-- worked to move nested data into workable dataframes
-- still in data wrangling mode. 
