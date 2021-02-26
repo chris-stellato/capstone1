@@ -1,10 +1,22 @@
 # Chris Stellato - Capstone 1 project
+#### Spotify Million Playlist Dataset
 
-## Original Proposal: 
-### Spotify Million Playlist Dataset
+### Presentation
+The final project presentation includes visual aids, results of hypothesis testing, and a summary of insights and takeaways.
+
+View the final project presentation here:
+https://github.com/chris-stellato/capstone_1/blob/master/capstone_1_presentation.pdf
+
+
+
+
+
+
+#### Original Proposal: 
+#### Spotify Million Playlist Dataset
 https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge
 
-#### Dataset
+##### Dataset
 This dataset contains records of 1M spotify playlists, allowing Data Scientists to draw connections between songs within playlists and make helpful recommendations to users. Some interesting fields include: 
 * playlist identifier
 * playlist tracklist and track ids
@@ -23,7 +35,9 @@ This dataset contains records of 1M spotify playlists, allowing Data Scientists 
 
 
 
-## Daily updates:
+
+
+## Daily project updates:
 #### Monday update: 
 - Dowloaded data
 - launched spark docker instance, created jupyter notebook
