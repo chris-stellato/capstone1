@@ -3,8 +3,7 @@
 
 ### Presentation
 The final project presentation includes visual aids, results of hypothesis testing, and a summary of insights and takeaways.
-#
-View the final project presentation here:
+View the final project presentation:
 https://github.com/chris-stellato/capstone_1/blob/master/capstone_1_presentation.pdf
 
 
